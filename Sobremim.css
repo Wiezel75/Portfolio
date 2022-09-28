@@ -1,0 +1,66 @@
+
+body{
+    color:bisque;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+.btn1{
+    background-color: black;
+    color:beige;
+    width: 150px;
+    height: 40px;
+    border: 3px red solid;
+    border-radius: 15px;
+}
+  
+.btn1:hover{
+    background-color:bisque ;
+    color:black;
+    width: 150px;
+    height: 40px;
+    border: 3px greenyellow solid;
+    border-radius: 15px;
+}
+h1{
+    font-size: 20px;
+    padding: 15px;
+}
+
+.imag{
+    display: flex;
+    width: 130px;
+    height: 190px;
+    justify-content: flex-end;
+    margin-left: 120px; 
+}
+.legenda{
+    color: bisque;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.logo{
+    display: flex;
+    width: 200px;
+    height: 250px;
+    justify-content: flex-end;
+    margin-left: 70px; 
+}
+.site{
+    color: bisque;
+    margin-top: 20px;
+    font-size: 15px;
+} 
+.JA{
+    display: flex;
+    width: 85px;
+    height: 110px;
+    justify-content: flex-end;
+    margin-left: 330px;
+    
+}
+.Elas{
+    color: bisque;
+    margin-top: 8px;
+    font-size: 15px;
+}

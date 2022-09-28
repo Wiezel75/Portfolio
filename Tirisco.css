@@ -1,0 +1,31 @@
+body{
+    color:brown;
+    background-color: rgb(236, 188, 32);
+    background-image:url(./alexandre.png) ;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 40%;
+    padding: 40px;  
+}
+h1{
+    color:black;
+    font-size: xx-large;
+}
+.btn1{
+    background-color: black;
+    color:beige;
+    width: 150px;
+    height: 40px;
+    border: 3px red solid;
+    border-radius: 15px;
+    
+}
+.btn1:hover{
+    background-color:white;
+    color:black;
+    width: 150px;
+    height: 40px;
+    border: 3px greenyellow solid;
+    border-radius: 15px;
+}
+

@@ -1,0 +1,42 @@
+body{
+
+    background-color: rgb(0, 162, 255);
+    background-image:url(./lab.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    padding: 50px; 
+
+}
+h2{
+   
+    padding: 50px; 
+    position: center;
+}
+
+.btn1{
+    background-color: black;
+    color:beige;
+    width: 150px;
+    height: 40px;
+    border: 3px red solid;
+    border-radius: 15px;
+    position:relative;
+    margin-top: 180px;
+    left:0;
+    bottom: 0;
+    
+    
+}
+
+.btn1:hover{
+    background-color:white;
+    color:black;
+    width: 150px;
+    height: 40px;
+    border: 3px greenyellow solid;
+    border-radius: 15px;
+}

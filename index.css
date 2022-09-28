@@ -1,0 +1,54 @@
+body{
+    
+    background-color: black;
+    background-image:url(./carmenholambra.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    color: black;
+    text-align: right;
+    padding: 80px;
+    font-size:large; 
+}
+
+ul{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items:auto;
+    padding: 16 px;
+}
+
+a{
+    color: white;
+    text-decoration: none;   
+}
+
+h1{
+    text-align: justify;
+    font-size: x-large;
+    color: white;
+    margin-left: 300px;
+    margin-top: 15px;
+}
+
+footer img{
+    display: flex;
+    width: 45px;
+    height: 45px;
+    justify-content: flex-end;
+    margin-left: 20px;
+    flex-direction: row;
+    justify-items: flex-end;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    color: blanchedalmond;
+    font-family: sans-serif;
+    
+}
